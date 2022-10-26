@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrimeraApp</string>
+    <string name="correo">Correo</string>
+    <string name="pass">Password</string>
+    <string name="entrar">Log In</string>
+    <string name="menuOp1">Registro</string>
+    <string name="menuOp2">Alumnos</string>
+    <string name="menuOp3">Configuraciones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
